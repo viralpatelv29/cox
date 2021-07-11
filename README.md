@@ -8,14 +8,6 @@ Following are the routes exposed:
 
 # Routes
 # This file defines all application routes (Higher priority routes first)
-# https://www.playframework.com/documentation/latest/ScalaRouting
-# ~~~~
-
-# An example controller showing a sample home page
-GET     /                           controllers.HomeController.index()
-
-# Map static resources from the /public folder to the /assets URL path
-GET     /assets/*file               controllers.Assets.versioned(path="/public", file: Asset)
 
 # api controllers mapping
 GET     /api/stocks                  controllers.api.StockController.getAll
