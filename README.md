@@ -13,7 +13,7 @@ A Scala/Play2 backend that exposes a web-service & websocket API for stock searc
 ### Steps to boot it up
 
 1. Clone this repo locally
-	- `git clone https://github.com/ajball/cox-coding-exercise.git`
+	- `git clone https://github.com/viralpatelv29/cox-stockwatch-backend.git
 2. Navigate to the project root dir
 	-  `cd cox-scala-exercise`
 3. Start the app
